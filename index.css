@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    background-color: turquoise;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #title {
+    font-size: 36px;
+    margin-bottom: 16px;
+    color: darksalmon;
+}
+
+
+  #poster {
+    border-radius: 8px;
+    width: 400px;
+  }
+    
+ 
+  .my-list {
+    float: left;
+  }
+
+  #movie {
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+    padding: 24px;
+}
