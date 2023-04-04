@@ -36,7 +36,7 @@ be displayed. It will also allow you to purchase the movie ticket if it is avail
 
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](http://http://127.0.0.1:5500/index.html)
+Or you can access the web application directly via this [LINK.](http://127.0.0.1:5500/index.html)
 *****
 ## Dependencies
 
